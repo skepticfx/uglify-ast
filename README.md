@@ -1,2 +1,10 @@
 # uglify-ast
-Recursively traverse the UglifyJS AST structure
+
+All about the UglifyJS AST
+
+### Resources
+
+* [UglifyJS AST doc](http://lisperator.net/uglifyjs/ast)
+* [ast.js](https://github.com/mishoo/UglifyJS2/blob/master/lib/ast.js) 
+* [Why not switching to SpiderMonkey AST](http://lisperator.net/blog/uglifyjs-why-not-switching-to-spidermonkey-ast/)
+* [Demo](http://demos.forbeslindesay.co.uk/uglify-js/)
